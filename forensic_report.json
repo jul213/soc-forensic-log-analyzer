@@ -1,0 +1,11 @@
+{
+    "audit_timestamp": "2026-07-22T11:04:44.238830",
+    "threats_detected": [
+        {
+            "ip": "192.168.1.105",
+            "attempts": 6,
+            "first_seen": "Jan 15 10:14:02",
+            "last_seen": "Jan 15 10:14:18"
+        }
+    ]
+}
